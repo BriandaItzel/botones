@@ -14,12 +14,12 @@ El objetivo de la práctica fue realizar una interfaz con el uso del widget stat
 
 ## Resultados
 
-- En esta primera parte sale los datos del alumno que vienes siendo los datos personales, al mismo tiempo se logra ver los datos academicos 
+- En esta primera parte se muestran los datos del alumno como son los datos personales y los datos academicos 
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193496957-79bc773e-c619-4490-a80f-b180335fcd41.png" width="70%"/></p>
 
-- En este apartado se logra apreciar un poco mas los datos de alumno cursa junto con sus correspondientes elementos 
+- En este apartado se logra apreciar un poco mas los datos de alumno que cursa junto con sus correspondientes elementos 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193497040-00ec3400-b95a-463f-8610-2e61db8671a6.png" width="70%"/></p>
 
 - En la consola se muestra el resultado al momento de pulsar uno de los 3 botones
