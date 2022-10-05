@@ -19,10 +19,10 @@ El objetivo de la práctica fue realizar una interfaz con el uso del widget stat
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193496957-79bc773e-c619-4490-a80f-b180335fcd41.png" width="70%"/></p>
 
-- en este apartado se logra apreciar un poco mas los datos de alumno cursa junto con sus correspondientes elementos 
+- En este apartado se logra apreciar un poco mas los datos de alumno cursa junto con sus correspondientes elementos 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193497040-00ec3400-b95a-463f-8610-2e61db8671a6.png" width="70%"/></p>
 
-- en la consola se muestra el resultado al momento de pulsar uno de los 3 botones
+- En la consola se muestra el resultado al momento de pulsar uno de los 3 botones
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193497072-5e52a624-b275-4bba-adf0-66f7349e5c95.png" width="70%"/></p>
 
 ---
